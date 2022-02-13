@@ -1,15 +1,6 @@
-/*!
-*  - v1.2.3
-* Homepage: http://bqworks.com/slider-pro/
-* Author: bqworks
-* Author URL: http://bqworks.com/
-*/
-/* Core
---------------------------------------------------*/
-
 #sliderpro1 .sp-slides-container img{
-	width:100%;
-	height:auto;
+    width:100%;
+    height:auto;
 }
 
 .main-content{
@@ -20,6 +11,7 @@
 
 
 .slider-pro {
+    padding-top: 30px;
 	position: relative;
 	margin: 0 auto;
 	-moz-box-sizing: content-box;

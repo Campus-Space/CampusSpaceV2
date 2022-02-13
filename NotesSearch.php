@@ -27,12 +27,12 @@ function getXMLData() {
 		$branch = "ice";
 	}*/
 	$doc = new DOMDocument();
-	$doc - > load($xmllink);
+	//$doc - > load($xmllink);
 	return $doc;
 }
 
 function getNotesList($doc, $semNum) {
-	$dump = $doc - > textContent;
+	//$dump = $doc - > textContent;
 	$sem1 = explode("Semester ".$semNum.
 		" </span>", $dump);
 	$semDump = $sem1[1];

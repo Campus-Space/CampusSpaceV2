@@ -3,7 +3,8 @@
 <html lang="en">
 
 <head>
-	<?php PrintHeadMetadata( "Campus Space | Team"); ?>
+    <?php PrintHeadMetadata( "Campus Space | Team"); ?>
+    <link rel="icon" href="assets/img/logo_1.png">
 </head>
 
 <body>

@@ -29,7 +29,7 @@
 							<aside class="sidebar sidebar_mod-a">
 								<section id="querytags" class="widget widget-default widget_search">
 									<h3 class="ui-title-inner">Search Query</h3>
-									<?php $keys=e xplode( ',', $keyword); foreach ($keys as $key) { if ($key) echo "<span>" . $key . "</span>"; } ?>
+									<?php // $keys=e xplode( ',', $keyword); foreach ($keys as $key) { if ($key) echo "<span>" . $key . "</span>"; } ?>
 									<form method="get" class="form-search clearfix" action="#" id="queryForm">
 										<input name="q" class="form-search__input" type="hidden" value="<?php echo $keyword; ?>">
 										<input name="key" class="form-search__input" type="text" placeholder="type a keyword...">
