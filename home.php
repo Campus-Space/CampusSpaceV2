@@ -136,7 +136,7 @@
                                     <div id="updates" class="posts-wrap"> </div>
                                     <div style="text-align: center;">
                                         <!-- <button class="btn btn-effect btn-info" onclick="window.location='https://ecm.smtech.in/ecm/';">Go to eCM</button><br> -->
-                                        <iframe src="https://ecm.smtech.in/ecm/" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+                                        <iframe src="https://ecm.smtech.in/ecm/" width="100%" height="500px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
                                     </div>
                                 </div>
                             </div>
