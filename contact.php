@@ -49,9 +49,9 @@
                                         <li class="list-contacts__item"> <i class="icon stroke icon-WorldWide"></i>
                                             <div class="list-contacts__inner">
                                                 <div class="list-contacts__title">WEB</div>
-                                                <div class="list-contacts__info"><a href="http://www.collegespace.in">CollegeSpace</a> </div>
-                                                <div class="list-contacts__info"><a href="http://www.nsitpedia.collegespace.in">NSITPedia</a> </div>
-                                                <div class="list-contacts__info"><a href="http://www.updates.collegespace.in">Web Bulletin</a> </div>
+                                                <div class="list-contacts__info"><a href="https://campus-space-v2.herokuapp.com">Campus Space V2</a> </div>
+                                                <!-- <div class="list-contacts__info"><a href="http://www.nsitpedia.collegespace.in">NSITPedia</a> </div> -->
+                                                <div class="list-contacts__info"><a href="https://smu.edu.in/smit.html/">Web Bulletin</a> </div>
                                             </div>
                                         </li>
                                         <li class="list-contacts__item"> <i class="icon stroke icon-House"></i>
