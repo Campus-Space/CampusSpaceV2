@@ -152,7 +152,7 @@
                                     </div>
                                     <div id="nsitpedia" class="posts-wrap"> </div>
                                     <div style="text-align: center;">
-                                        <iframe src="https://smu.edu.in/content/dam/manipal/smu/IQAC/NAAC/5/XXI.pdf" width="100%" height="500px" style="border:0;" allowfullscreen="" loading="lazy"></iframe><br>
+                                        <!-- <iframe src="https://smu.edu.in/content/dam/manipal/smu/IQAC/NAAC/5/XXI.pdf" width="100%" height="500px" style="border:0;" allowfullscreen="" loading="lazy"></iframe><br> -->
                                         <button class="btn btn-effect btn-info" onclick="window.location='https://smu.edu.in/smit.html/';">Go to SMITian</button>
                                     </div>
                                 </div>
