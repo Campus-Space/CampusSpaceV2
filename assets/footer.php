@@ -47,7 +47,7 @@
 		</div>
 		<div class="col-lg-4 col-sm-4">
                     <section class="footer-section" style="padding-top: 18px;">
-                    <a class="twitter-timeline" data-tweet-limit="3" data-theme="dark" data-link-color="#00BED3" data-chrome="transparent"   href="https://twitter.com/manipal_sikkim">Tweets by Campus Space</a>
+                    <a class="twitter-timeline" data-tweet-limit="3" data-theme="dark" data-link-color="#00BED3" data-chrome="transparent"   href="https://twitter.com/smitmanipal">Tweets by Campus Space</a>
                     </section>
 		</div>
             </div>
